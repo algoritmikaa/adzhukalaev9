@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a {
+    margin: 90px;
+    padding: 10px;
+    font-size: 21px;
+    color: black;
+    border-bottom: 4px solid black;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+    font-size: 50px;
+}
+
+main img {
+    border-left: 10px dotted black; 
+    margin: 50px;
+    padding: 3px;
+}
+
+main p {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+footer {
+     background-color: black;
+     padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 4px;
+}
+
